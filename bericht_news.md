@@ -169,3 +169,157 @@ The Riyadh airport escalation and the unconfirmed Russia-Ukraine energy-ceasefir
 - [CNN: Isaias live updates](https://www.cnn.com/2026/10/09/weather/live-news/hurricane-isaias-gulf-storm) (updated 11 October)
 - [BBC: Delhi protests](https://www.bbc.com/news/articles/c84g179n2393o) (11 October)
 - [BBC: Nord Stream trial in Hamburg](https://www.bbc.com/news/articles/c317ke5ngrq7o) (10 October)
+
+---
+
+## World News Briefing — 12 October 2026
+
+*Prepared at approximately 7:44 a.m. CEST. Coverage prioritizes BBC News and CNN, with AP, Reuters, IOM and other reliable sources used for verification. Times are Berlin time (CEST) where available. This edition emphasizes developments published or updated since approximately 7:30 a.m. CEST on 11 October.*
+
+### Today's World in 60 Seconds
+
+- At least 139 people died after a migrant boat capsized off Djibouti; 84 were still missing in the latest IOM count, which may rise.
+- A second strike in two days hit Riyadh airport. Saudi officials reported one death and 11 injuries in the latest incident; responsibility for the specific projectile remains unverified.
+- Donald Trump says Russia and Ukraine agreed to an energy ceasefire, but Moscow has not publicly confirmed it and the terms remain unclear.
+- Fresh flash floods in Nepal have swept away homes and bridges; five people were reported missing and rescue operations continued.
+- New reporting details strikes on gold-mining camps on the Egypt-Sudan border. Reported death tolls differ sharply, and the aircraft and responsibility have not been established.
+
+**The biggest story today:** The Djibouti shipwreck, a major humanitarian disaster with at least 139 deaths and dozens still missing. The official count is incomplete and may change.
+
+**The biggest risk to watch:** Further attacks on Riyadh airport could widen the Saudi-Houthi conflict. Attribution for the latest projectile is not independently established.
+
+**What to watch today:**
+1. Whether Russia confirms, rejects or qualifies Trump's claimed energy pause, and whether attacks on energy infrastructure actually stop.
+2. The casualty and search updates from Djibouti and the missing-person search in Nepal.
+3. Saudi inspections, any flight restrictions or response to the Riyadh airport attacks, and any official evidence about who launched the latest projectile.
+
+**Overall global outlook:** The day's most serious developments combine confirmed humanitarian losses with important but unsettled security claims. The reported Ukraine pause has no public Russian confirmation; attacks in Saudi Arabia and the Egypt-Sudan border zone also remain difficult to attribute. Rescue and recovery operations in Djibouti and Nepal will shape the immediate human toll.
+
+### Top 3 Global Stories
+
+#### 1. At least 139 dead after migrant boat capsizes off Djibouti; 84 missing
+
+**Summary:** A boat carrying 305 people from Djibouti toward Yemen capsized near Obock on the night of 8–9 October, according to the International Organization for Migration (IOM). By the IOM's 11 October update, at least 139 people had died and 84 were missing; about 82 survived. The official death count includes bodies buried by authorities, while other burials await verification.
+
+**Why it matters:** This is among the deadliest known disasters on the Eastern Route across the Bab el-Mandeb, travelled by migrants from the Horn of Africa toward Yemen and Gulf states. The count is still incomplete, and survivors are receiving medical and psychosocial support.
+
+**Latest development:** IOM said the toll rose by 30 as more bodies were recovered; search and recovery continued. Its Djibouti chief cautioned that unverified burials are not included in the official count.
+
+**What happens next:** Watch for further recoveries and verified identification of missing people. IOM says survivors are being assisted at its Obock response centre.
+
+**Sources:** [CNN/AP](https://www.cnn.com/2026/10/11/africa/djibouti-boat-capsize-dead-latam-intl) (published 12 October, 2:14 a.m. CEST); [BBC](https://www.bbc.com/news/articles/cwy7lxx60dg5o) (11 October; exact time not displayed); [IOM](https://www.iom.int/news/death-toll-djibouti-shipwreck-climbs-139-un-migration) (11 October).
+
+#### 2. Second Riyadh airport strike in two days kills one and injures 11, Saudi officials say
+
+**Summary:** Saudi authorities said a projectile struck King Khalid International Airport in Riyadh, killing one Pakistani resident and injuring 11. The Houthis claimed a wider operation against Saudi targets, while a Saudi coalition spokesman described the airport impact as an “unknown projectile”; the available reporting does not independently establish who caused this specific strike. It followed a deadlier attack the previous day, whose toll Saudi authorities later put at 13 dead and more than 300 injured.
+
+**Why it matters:** Repeated attacks and Houthi warnings to airlines threaten civilian aviation and raise the risk of a wider Saudi-Yemen confrontation.
+
+**Latest development:** Damage assessments and safety inspections were under way. Saudi officials and the coalition gave differing descriptions of projectiles and interceptions; attribution remains unsettled.
+
+**What happens next:** Watch for inspection results, flight or airport restrictions, evidence about the projectile and any Saudi or allied response.
+
+**Sources:** [BBC](https://www.bbc.com/news/articles/cr93znyk44e1o) (12 October; page showed a relative publication time); [BBC live coverage](https://www.bbc.com/news/live/cqy7lxd104xet); [CNN/Reuters on the preceding strike](https://www.cnn.com/2026/10/10/middleeast/riyadh-airport-saudi-houthis-intl) (10–11 October).
+
+#### 3. Trump’s ‘energy ceasefire’ claim welcomed by Zelensky, but Russia is silent
+
+**Summary:** Trump said Russia and Ukraine had agreed to halt attacks on energy infrastructure immediately but gave no terms. Ukraine’s President Volodymyr Zelensky said Kyiv would support such a truce if Moscow did; he initially said the announcement had surprised him. Moscow had not publicly confirmed an agreement in the reports reviewed.
+
+**Why it matters:** A genuine pause could protect energy infrastructure ahead of winter. But without Russian confirmation, detailed terms or observable compliance, there is not yet an independently established bilateral ceasefire.
+
+**Latest development:** Zelensky expressed conditional Ukrainian readiness while saying Russian attacks were continuing. Ukrainian officials also reported further strikes on energy sites; these accounts were not independently verified in the sources reviewed.
+
+**What happens next:** Watch for a direct Kremlin response, a published scope and monitoring mechanism, and verifiable evidence of whether strikes stop.
+
+**Sources:** [BBC](https://www.bbc.com/news/articles/c6pvg4jyz1m0o) (12 October; relative publication time); [CNN](https://www.cnn.com/2026/10/11/politics/trump-ukraine-russia-energy-ceasefire) (11 October); [The Guardian](https://www.theguardian.com/world/2026/oct/12/ukraine-war-briefing-russia-attacks-multiple-power-plants-after-trump-energy-ceasefire-claim) (updated 12 October, 4:05 a.m. CEST).
+
+### Wars, Conflicts and Security
+
+#### Gold prospectors killed in reported strikes near the Egypt-Sudan border
+
+**Summary:** Emergency Lawyers, a Sudanese rights group, said strikes hit artisanal mining camps near the Egypt-Sudan border on Saturday and gave a provisional toll of 72 dead. The Associated Press separately cited the Sudan Doctors Network reporting 13 dead and at least 28 wounded. Neither the aircraft's operator nor responsibility for the strike has been confirmed.
+
+**Why it matters:** The attack raises urgent civilian-protection concerns in a remote, volatile border area where gold mining and Sudan's wider conflict intersect. The casualty estimates conflict substantially.
+
+**Latest development:** BBC reported that neither Egyptian nor Sudanese authorities had commented at publication. The differing tolls reflect distinct attributed reports and should not be combined into one confirmed count.
+
+**What happens next:** Watch for medical-response updates, access to the site, an official investigation and independently verifiable evidence about the strike.
+
+**Sources:** [BBC](https://www.bbc.com/news/articles/cqy43vrk8wv8o) (published 11 October; exact time not displayed); [Associated Press](https://apnews.com/article/sudan-airstrike-gold-mine-egypt-border-445367c8aa73005c2ade4b8999b68259) (11 October).
+
+### Europe and Germany
+
+#### Poland detains man over alleged plot against Prime Minister Tusk
+
+**Summary:** Polish authorities said police detained a Polish man in Lower Silesia after security services received information about a possible attack targeting Prime Minister Donald Tusk and Defence Minister Władysław Kosiniak-Kamysz. The Interior Ministry said the State Protection Service forwarded an email about the potential attack to police. Public reporting reviewed did not establish the suspect's identity, the alleged method or formal charges.
+
+**Why it matters:** The reported threat concerns Poland's top political leadership and comes amid heightened security concerns in a country bordering Ukraine. The arrest and official threat assessment are confirmed reports; the alleged plan is not proven.
+
+**Latest development:** The detention was reported by BBC and Reuters on 11–12 October. No public court filing or detailed evidence was located in the coverage reviewed.
+
+**What happens next:** Watch for a prosecutor's statement on charges, custody and evidence, and for further details from Polish security services.
+
+**Sources:** [BBC](https://www.bbc.com/news/articles/c6n9rvynl5p5o) (12 October; relative time); [Reuters](https://www.reuters.com/world/europe/poland-says-police-got-information-about-possible-attack-pm-defence-minister-2026-10-11/) (11 October).
+
+### Asia and the Pacific
+
+#### Flash floods sweep away homes and bridges in Nepal
+
+**Summary:** Flash flooding along the Budhi Gandaki River in Nepal's Gorkha district swept away homes and suspension bridges, damaged a hydropower project and cut off some settlements. The BBC reported that Nepal's army had rescued 95 people, five were missing and no deaths had been reported at that point; it said more than 650 people were affected. Other reports gave different rescue counts at earlier times, so those figures should not be combined.
+
+**Why it matters:** The floods damaged essential infrastructure and isolated communities, complicating rescue and supply access in a country still recovering from catastrophic floods less than two months ago.
+
+**Latest development:** Search and rescue continued. The reported cause is not settled: authorities discussed a landslide blockage, while experts cited by BBC also raised other possibilities.
+
+**What happens next:** Watch for updates on the five people reported missing, access restoration and a clearer account of the cause and damage.
+
+**Sources:** [BBC](https://www.bbc.com/news/articles/ck86zppejjw3o) (11 October; page showed a relative time); [AP via 1News](https://www.1news.co.nz/2026/10/12/five-missing-villages-evacuated-as-flash-flooding-hits-northern-nepal/) (12 October).
+
+### World Economy and Technology
+
+#### Ukraine strike shuts a Yandex data centre in Vladimir, company says
+
+**Summary:** Yandex said its data centre in Vladimir, east of Moscow, was damaged in a drone attack on 11 October and that operations there were suspended. The company said no one was injured and that it was working to restore connectivity; some services were unavailable. The strike followed attacks on other Yandex facilities earlier in the week, but responsibility for the Vladimir strike is not independently established in the sources reviewed.
+
+**Why it matters:** Three reported hits in four days raise questions about resilience for widely used digital services and cloud workloads. The duration and scale of the disruption remain unclear.
+
+**Latest development:** Yandex said the Vladimir facility remained suspended while it worked to restore service; no recovery timetable was confirmed.
+
+**What happens next:** Watch for service-restoration notices and any official statements clarifying attribution, damage and which users remain affected.
+
+**Sources:** [BBC](https://www.bbc.com/news/articles/cw0k0g57mk3zo) (12 October; page showed a relative time); [Associated Press](https://www.news10.com/news/technology/ap-ukraine-steps-up-strikes-on-russias-tech-infrastructure-damaging-third-data-center-in-4-days/) (11 October, 9:29 p.m. CEST); [Al Jazeera](https://www.aljazeera.com/news/2026/10/11/russias-yandex-says-data-centre-in-vladimir-shut-down-after-drone-attack) (11 October).
+
+### United States
+
+#### Justice Department investigates five TV networks over White House press-pool coverage
+
+**Summary:** The US Justice Department said it is investigating ABC, CBS, CNN, NBC and Fox News for possible antitrust violations after the networks temporarily stopped shared White House TV-pool coverage when the administration barred CNN, MS NOW and Politico from access. The department is examining whether the networks' coordination could amount to an unlawful group boycott under the Sherman Act. That is an allegation under investigation, not a finding of wrongdoing.
+
+**Why it matters:** The probe brings antitrust scrutiny to a shared reporting arrangement while the White House access dispute is being litigated, raising press-freedom questions.
+
+**Latest development:** A federal judge had temporarily restored access for the barred outlets. NPR reported the judge expected a more enduring decision by Tuesday evening, 13 October; no later decision was confirmed in the sources reviewed.
+
+**What happens next:** Watch for the court's decision, any DOJ filing and a response from the networks.
+
+**Sources:** [BBC](https://www.bbc.com/news/articles/c9vgregzk6gro) (12 October; relative time); [CNN](https://www.cnn.com/2026/10/10/media/trump-doj-probing-tv-networks-nbc-cbs-fox-abc-cnn-white-house) (11 October, 3:52 a.m. CEST); [NPR](https://www.npr.org/2026/10/11/nx-s1-5997574/the-doj-is-investigating-5-tv-networks-for-suspending-pool-coverage-of-trump) (updated 11 October, 7:17 p.m. CEST).
+
+### Five Things to Remember Today
+
+1. IOM reported at least 139 deaths and 84 missing after the Djibouti boat disaster; the official count may rise.
+2. A second Riyadh airport attack in two days caused one reported death and 11 injuries; responsibility for the latest projectile remains unverified.
+3. Trump's claimed Russia-Ukraine energy ceasefire is not confirmed by Moscow and has no published terms.
+4. Emergency groups reported deadly strikes on gold-mining camps near the Egypt-Sudan border, but casualty estimates differ sharply.
+5. Flood rescue operations continue in Nepal; meanwhile, Poland's alleged plot and the US media-pool investigation remain allegations or investigations, not findings of guilt.
+
+### Sources and Further Reading
+
+- [BBC News — World](https://www.bbc.com/news/world)
+- [CNN — World](https://edition.cnn.com/world)
+- [BBC: Children among 139 dead after boat capsizes off Djibouti](https://www.bbc.com/news/articles/cwy7lxx60dg5o)
+- [BBC: One killed, 11 injured in second Houthi strike on Riyadh airport](https://www.bbc.com/news/articles/cr93znyk44e1o)
+- [BBC: Trump's energy-ceasefire claim welcomed by Zelensky](https://www.bbc.com/news/articles/c6pvg4jyz1m0o)
+- [BBC: Gold prospectors killed in reported Egypt-Sudan border strikes](https://www.bbc.com/news/articles/cqy43vrk8wv8o)
+- [BBC: Fresh floods hit Nepal](https://www.bbc.com/news/articles/ck86zppejjw3o)
+- [BBC: Ukraine strikes Yandex data centre](https://www.bbc.com/news/articles/cw0k0g57mk3zo)
+- [BBC: Polish police detain man over alleged plot](https://www.bbc.com/news/articles/c6n9rvynl5p5o)
+- [BBC: US Justice Department investigates TV networks](https://www.bbc.com/news/articles/c9vgregzk6gro)
