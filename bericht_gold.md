@@ -104,3 +104,114 @@ Im betrachteten Fenster ist kein FOMC- oder EZB-Zinsentscheid terminiert; der n�
 - **Steuer-/Kalenderquellen:** [§ 23 EStG](https://www.gesetze-im-internet.de/estg/__23.html), [§ 25c UStG](https://www.gesetze-im-internet.de/ustg_1980/__25c.html); amtliche Kalender der [Fed](https://www.federalreserve.gov/newsevents/2026-october.htm), [BLS](https://www.bls.gov/schedule/2026/10_sched.htm), [Census](https://www.census.gov/retail/release_schedule.html), [Destatis](https://www.destatis.de/EN/Press/Dates/Weekly-Preview/_node.html), [Eurostat](https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-02102026-ap) und [Europäischer Rat](https://www.consilium.europa.eu/en/meetings/european-council/2026/10/15-16/).
 
 **Datenlücken:** kein tagesaktuelles offizielles EZB-FX-Fixing am Montagmorgen, kein WGC-Tageshoch/-tief im Snapshot, keine lückenlos verifizierte technische Tagesreihe und kein sauber zeitgleicher Spot-versus-Händlerpreisvergleich. Händlerangebote sind Momentaufnahmen; Makrodaten sind die jeweils letzten veröffentlichten Werte und können revidiert werden.
+
+## 13. Oktober 2026 – Goldmarktbericht
+
+*Datenstand: 13.10.2026, 07:49:25 CEST für Spot/FX; Händlerübersicht abgerufen 07:54 CEST; Kalenderstatus geprüft 08:00–08:01 CEST. 1 Feinunze = 31,1034768 g. Allgemeine Information, keine persönliche Anlage-, Steuer- oder Rechtsberatung.*
+
+### A. Morgenübersicht
+
+**Spot, WGC-Mid um 07:49:25 CEST:** 4.192,01 USD/oz (**134,78 USD/g**) und 3.751,34 EUR/oz (**120,61 EUR/g**). Der Feed liefert keinen verlässlichen Tageshoch-/Tagestief-Wert. Seine Bid-/Ask-Felder sind gekreuzt; deshalb verwende ich nur den ausdrücklich ausgewiesenen Mid und nicht die Feed-Spanne als handelbare Quote. [1]
+
+Seit dem vorherigen WGC-Snapshot um 07:32:27 CEST (4.195,07 USD bzw. 3.754,68 EUR je oz) lag der Mid um 07:49:25 um 3,06 USD/oz (-0,07 %) beziehungsweise 3,34 EUR/oz (-0,09 %) niedriger. **Das ist eine Veränderung über rund 17 Minuten, keine Tagesrendite.** [1]
+
+| Zeitraum / Maß | USD je Feinunze | Veränderung | Quelle und Einschränkung |
+|---|---:|---:|---|
+| Letzter archivierter Schluss, 12.10. | 4.190,04 | Tagesangabe: -4,27 USD / -0,10 % | GoldPrice.org; täglicher Schlusszeitpunkt/Zeitzone nicht ausgewiesen [2] |
+| 7 Kalendertage, 05.–12.10. | 4.141,96 → 4.190,04 | +48,08 USD / +1,16 % | dieselbe Archivserie [3] |
+| 30 Kalendertage, 12.09.–12.10. | 4.348,91 → 4.190,04 | -158,87 USD / -3,65 % | dieselbe Archivserie [4] |
+| YTD, 31.12.2025–12.10.2026 | 4.339,65 → 4.190,04 | -149,61 USD / -3,45 % | dieselbe Archivserie [5] |
+
+Das sind **anbieterbasierte USD-Schlussdaten**, nicht der Live-Spot und keine offizielle Fixingreihe; wegen fehlender Schlusszeitangabe sind sie nur orientierend. EUR-Renditen aus einer synchronisierten täglichen Gold-/FX-Reihe sind nicht verifiziert und werden nicht abgeleitet. Für den jüngsten Goldpreis in EUR/USD fehlt auch ein vertrauenswürdiger Tageshoch/-tief-Wert. [2]–[5]
+
+**EUR/USD:** letzter EZB-Referenzkurs 1 EUR = **1,1181 USD** vom 12.10.; die EZB veröffentlicht den Referenzkurs üblicherweise gegen 16:00 Uhr und empfiehlt ihn nicht als Transaktionskurs. Das Verhältnis der beiden gleichzeitigen WGC-Gold-Mids ergibt einen **impliziten** Wechselkurs von rund 1,1175 USD je EUR, keinen separaten FX-Feed. [1] [6]
+
+### B. Drei Markttreiber
+
+1. **Hohe US-Renditen und Fed-Pfad – Gegenwind für Gold.** Die US-Treasury meldete zuletzt für den 09.10. eine zehnjährige Nominalrendite von 5,24 % und eine zehnjährige TIPS-Realrendite von 2,91 %; der effektive Fed-Funds-Satz lag laut zuletzt verfügbarem H.15 am 08.10. bei 3,88 %. Der Fed-Zielkorridor beträgt seit dem Beschluss vom 16.09. 3,75–4,00 %. Hohe reale Renditen erhöhen tendenziell die Opportunitätskosten des unverzinsten Goldes. [7] [8] [9] [27]
+
+2. **Dollar, EUR und Inflation – gegensätzliche Wirkungen.** Reuters berichtete am 12.10. von einem festeren Dollar und gestiegenen Ölpreisen; beides belastete den Goldpreis in der Sitzung, während die Nahostlage Risikonachfrage stützte. Der EZB-Rat hatte am 10.09. die drei Leitzinsen um 25 Basispunkte angehoben; der Einlagesatz liegt bei 2,50 %. US-CPI für September ist für den 14.10. angesetzt. Ein stärkerer Dollar kann den USD-Goldpreis drücken und zugleich den EUR-Goldpreis über die Umrechnung abfedern oder verstärken. [10]–[12] [18]
+
+3. **Anlageflüsse und geopolitische Absicherung – strukturelle Stützen, aber keine Tagesdaten.** Der World Gold Council meldete für August 39 t Zentralbank-Nettonachfrage (170 t seit Jahresbeginn bis Ende August). Im September flossen 10 Mrd. USD in physisch hinterlegte Gold-ETFs; deren Bestände stiegen um 67 t auf den damaligen Rekord von 4.256 t. Das sind verzögerte Monatsdaten, keine Aussage über heutige Käufe. Reuters verwies am 12.10. auf Angriffe in Saudi-Arabien und eine dadurch erhöhte Öl-/Nahostrisikoprämie. Eine neue, belastbare Kurzfristzahl zu Minenangebot oder Recyclingangebot liegt hier nicht vor. [13] [14] [10]
+
+### C. Analyse
+
+**Fakten:** Gold notierte am 12.10. laut Reuters zeitweise bei 4.169,10 USD/oz, nachdem es zuvor ein Wochenhoch erreicht hatte; der U.S.-Bondmarkt war wegen Columbus Day geschlossen. Reuters nannte einen festen Dollar, Ölpreisanstieg und anstehende US-Inflationsdaten als Faktoren. Der WGC-Live-Mid am Morgen des 13.10. lag bei 4.192,01 USD/oz. Die verschiedenen Angaben sind Zeitpunkte und Datenprodukte verschiedener Anbieter; daraus wird keine laufende Tagesrendite konstruiert. [1] [10]
+
+**Technik:** 20-/50-/200-Tage-Durchschnitte, RSI und Momentum werden mangels konsistenter, lückenloser Tageskursreihe nicht berechnet. Als grobe, nicht bestätigte Orientierungsmarke nannte ein von Reuters zitierter Analyst am 09.10. eine sich bildende „floor“-Zone im Bereich 4.000 USD/oz. Daraus folgt weder eine bestätigte Unterstützung noch ein Kauf-/Verkaufssignal; ein aktueller Widerstand ist mit den verifizierten Daten nicht belastbar festzulegen. [15]
+
+**Physische deutsche Händlerpreise – Momentaufnahme:** Die Heubach-Preisübersicht zeigte bei Abruf um 07:54 CEST folgende Kauf-/Verkaufspreise; Aufgeld bezieht sich auf den WGC-EUR-Mid von 3.751,34 EUR/oz bzw. 120,61 EUR/g, Spread = Händler-Verkaufspreis minus Händler-Ankaufspreis. Alle Werte ohne Versand, Zahlungs- oder mögliche Prüfkosten. [16]
+
+| Produkt | Kauf beim Händler | Ankauf durch Händler | Aufgeld zum Spot | Brutto-Spread |
+|---|---:|---:|---:|---:|
+| 1-g-Barren, Heubach | 144,44 € | 122,56 € | ca. 19,8 % | 21,88 € / 15,1 % |
+| 10-g-Barren, Heubach | 1.256,78 € | 1.210,79 € | ca. 4,2 % | 45,99 € / 3,7 % |
+| 1-oz-Barren, Heubach | 3.826,44 € | 3.671,56 € | ca. 2,0 % | 154,88 € / 4,0 % |
+| 1-oz-Krügerrand, Heubach | 3.772,04 € | 3.714,27 € | ca. 0,6 % | 57,77 € / 1,5 % |
+| 1-g-Barren, philoro | 135,13 € | 119,11 € | ca. 12,0 % | 16,02 € / 11,9 % |
+| 10-g-Barren, philoro | 1.261,31 € | 1.191,06 € | ca. 4,6 % | 70,25 € / 5,6 % |
+
+Die Philoro-Produktseite enthielt beim Abruf um 07:50 CEST die genannten Beträge, aber keinen sekundengenauen Preiszeitstempel; daher nur als Seiten-Snapshot vergleichen. ESG zeigte für einen gegossenen 10-g-Barren 1.231,30 € im Verkauf; die separate ESG/Schalter-Ankaufstabelle zeigte 1.183,13 € für einen 10-g-Barren um 07:48 CEST. Wegen abweichender Seiten-/Zeitstempel ist das kein synchroner Spread. Die ESG-Tabelle nannte außerdem Schalter-Ankaufspreise von 118,31 € für 1 g und 3.679,54 € für 1 oz. Händlerbedingungen, Form, Marke und Zustand können den Rückkauf verändern. [17] [18] [26]
+
+### D. Szenarien
+
+Die Gewichte sind grobe, subjektive Einschätzungen zum Informationsstand, nicht modell- oder marktimplizit und keine punktgenauen Kursziele. Je Horizont summieren sie sich auf 100 %.
+
+| Horizont | Bullisch | Neutral | Bärisch |
+|---|---|---|---|
+| 1–5 Handelstage | **25 %:** US-CPI fällt milder aus als befürchtet, Dollar und Realrenditen geben nach; Gold findet Anschlusskäufe. | **50 %:** Daten bestätigen weitgehend die Erwartungen; hohe Renditen und geopolitische Absicherung gleichen sich aus, Gold schwankt. | **25 %:** zäher CPI oder hawkishe Fed-Aussagen heben Dollar/Renditen; Gold gerät unter Druck. |
+| 2–4 Wochen | **30 %:** Inflationsdruck lässt nach, während ETF- und Zentralbanknachfrage anhält. | **35 %:** Datensignale bleiben gemischt und Gold bewegt sich ohne bestätigten Trend. | **35 %:** Inflationsüberraschungen und anhaltend hohe Realrenditen überwiegen die strukturelle Nachfrage. |
+| 3–6 Monate | **35 %:** fortgesetzte Zentralbank-/ETF-Nachfrage und geopolitische Risiken stützen; sinkende Realrenditen wären zusätzlicher Rückenwind. | **35 %:** Nachfrage hält, aber höhere Zinsen und ein starker Dollar begrenzen die Bewegung. | **30 %:** nachhaltige Realzins- und Dollarstärke sowie schwächere Anlegerzuflüsse drücken Gold. |
+
+### E. Einschätzung
+
+**ABWARTEN.** Strukturelle ETF-/Zentralbanknachfrage und geopolitische Risiken stützen, während hohe US-Realrenditen, ein fester Dollar und der unmittelbar anstehende US-CPI entgegenwirken. Hinzu kommen nicht zeitgleiche Kursreihen und große Unterschiede bei den physischen Händler-Spreads. Es fehlt damit ein sauber bestätigtes Signal für einen kurzfristigen Einstieg. Keine individuelle Kauf- oder Verkaufsempfehlung.
+
+### F. Praktischer Handlungsplan
+
+Wer unabhängig vom Tagesausblick bereits eine langfristige Goldquote beschlossen hat, kann Käufe vorab in drei gleich große Tranchen und feste Termine aufteilen, statt einer einzelnen Tagesbewegung hinterherzulaufen. Vor jeder Tranche den Live-Spot und zeitgleiche An-/Verkaufspreise für identische Stückelung und Qualität prüfen. Die heutigen Händlerbeispiele zeigen, warum die kleinste Stückelung teuer sein kann: Die Brutto-Spanne des 1-g-Barrens bei Heubach lag bei 15,1 % des Händler-Kaufpreises, beim 1-oz-Krügerrand bei 1,5 %. Diese Spannen sind Momentaufnahmen, keine garantierten Kosten; Versand, Versicherung, Zahlungsart, Lieferform und mögliche Echtheits-/Zustandsabzüge kommen gegebenenfalls hinzu. Für Verkäufe mindestens zwei zeitgleiche Ankaufangebote einholen. [16]–[18]
+
+Vor einem Verkauf steuerlich prüfen: Nach § 23 EStG sind Veräußerungen anderer privater Wirtschaftsgüter grundsätzlich relevant, wenn zwischen Anschaffung und Verkauf nicht mehr als ein Jahr liegt; der Gesamtgewinn aus privaten Veräußerungsgeschäften bleibt steuerfrei, wenn er im Kalenderjahr unter 1.000 € liegt. Einzelfall, Anschaffungsnachweis und Verlustverrechnung können entscheidend sein. § 25c UStG befreit qualifizierendes Anlagegold von der Umsatzsteuer; für Barren und Münzen gelten unterschiedliche Voraussetzungen. Keine persönliche Steuerberatung. [19] [20]
+
+### G. Termine der nächsten sieben Tage
+
+Alle Zeiten in Europe/Berlin (CEST), soweit nicht ausdrücklich als nicht verifiziert gekennzeichnet. Die US-Zeiten des BLS-Kalenders sind Eastern Time; am Stichtag liegt Berlin sechs Stunden voraus. [21] [22]
+
+- **Di., 13.10., 08:00:** Destatis hatte die endgültigen deutschen VPI-/HVPI-Ergebnisse für September angekündigt. Um 08:01 CEST waren die amtliche Presseübersicht und Themenseite noch nicht aktualisiert; zugänglich blieb die Vorabschätzung: VPI +3,3 % ggü. Vorjahr und +0,6 % ggü. Vormonat, Kernrate +2,4 %, Energie +14,9 %. Die finalen Zahlen sind hier daher ausdrücklich **noch nicht bestätigt/verfügbar**. [23] [24]
+- **Di., 13.10., Fed-Rede von Christopher Waller:** Fed-Kalender nennt 04:30 Uhr; falls dies Eastern Time ist, entspricht das 10:30 CEST. Die Zeitzone ist im extrahierten Kalender nicht ausdrücklich angegeben; Uhrzeit bitte am Originalkalender prüfen. Aussagen zum Ausblick könnten Dollar- und Renditeerwartungen bewegen. [21]
+- **Mi., 14.10., 14:30:** US-CPI für September und reale Verdienste (08:30 ET); hohe Relevanz für Fed-Erwartungen. **20:00:** Fed-Beige-Book (14:00 ET), möglicher zusätzlicher Hinweis auf Konjunktur und Preisdruck. [21] [22]
+- **Do., 15.10., 14:30:** US-Erzeugerpreise (PPI, September; 08:30 ET). [22]
+- **Fr., 16.10., 14:30:** US-Import- und Exportpreise (September; 08:30 ET); **15:15:** Fed-Industrieproduktion (09:15 ET). Eurostat hat vollständige September-HVPI-Daten für den 16.10. angekündigt; eine verifizierte Uhrzeit lag nicht vor. [21] [22] [25]
+- **Di., 20.10., 16:00:** BLS State Employment and Unemployment (September; 10:00 ET), indirekter Konjunktur-/Zinskanal. [22]
+
+Im Zeitraum bis 20.10. ist laut geprüftem Fed-Kalender kein FOMC-Zinsentscheid angekündigt; auch kein EZB-Zinsentscheid wurde in den geprüften Terminen gefunden. [21]
+
+### H. Quellen und Datenstand
+
+[1]: https://fsapi.gold.org/api/goldprice/v13/charts/spotprice "World Gold Council: zeitgestempelter Gold-Spotfeed"
+[2]: https://goldprice.org/gold-price-today/2026-10-12 "GoldPrice.org: Goldschluss und Tagesangabe vom 12. Oktober 2026"
+[3]: https://goldprice.org/gold-price-today/2026-10-05 "GoldPrice.org: Goldschluss vom 5. Oktober 2026"
+[4]: https://goldprice.org/gold-price-today/2026-09-12 "GoldPrice.org: Goldschluss vom 12. September 2026"
+[5]: https://goldprice.org/gold-price-today/2025-12-31 "GoldPrice.org: Goldschluss vom 31. Dezember 2025"
+[6]: https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/index.en.html "EZB: letzter Euro-Referenzkurs USD vom 12. Oktober 2026"
+[7]: https://home.treasury.gov/resource-center/data-chart-center/interest-rates/daily-treasury-rates.csv/2026/all?type=daily_treasury_yield_curve&field_tdr_date_value=2026&_format=csv "U.S. Treasury: tägliche nominale Renditekurve"
+[8]: https://home.treasury.gov/resource-center/data-chart-center/interest-rates/daily-treasury-rates.csv/2026/all?type=daily_treasury_real_yield_curve&field_tdr_date_value=2026&_format=csv "U.S. Treasury: tägliche TIPS-Realrenditekurve"
+[9]: https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm "Federal Reserve: FOMC-Beschluss vom 16. September 2026"
+[10]: https://www.reuters.com/world/india/gold-gains-weaker-oil-dollar-us-inflation-data-focus-2026-10-12/ "Reuters: Gold am 12. Oktober, Dollar, Öl und US-Inflationsdaten"
+[11]: https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.mp260910~314e508016.en.html "EZB: geldpolitischer Beschluss vom 10. September 2026"
+[12]: https://www.bls.gov/schedule/2026/10_sched.htm "BLS: Veröffentlichungskalender Oktober 2026"
+[13]: https://www.gold.org/goldhub/gold-focus/2026/10/central-bank-gold-statistics-central-banks-continue-summer-spree-august "World Gold Council: Zentralbanknachfrage im August 2026"
+[14]: https://www.gold.org/goldhub/research/gold-etfs-holdings-and-flows/2026/10 "World Gold Council: Gold-ETF-Flüsse September 2026"
+[15]: https://www.reuters.com/world/india/gold-rises-softer-dollar-easing-yields-fed-outlook-focus-2026-10-09/ "Reuters: Gold und die 4.000-USD-Zone am 9. Oktober 2026"
+[16]: https://www.heubach-edelmetalle.de/preisuebersicht "Heubach Edelmetalle: Preisübersicht und An-/Verkaufskurse"
+[17]: https://philoro.de/produkt/goldbarren-1-g-philoro-2401v "philoro: 1-g-Goldbarren, Kauf-/Verkaufspreis"
+[18]: https://www.edelmetall-handel.de/goldbarren-10g-au-gegossen.html "ESG Edelmetall-Handel: 10-g-Goldbarren"
+[19]: https://www.gesetze-im-internet.de/estg/__23.html "EStG § 23: Private Veräußerungsgeschäfte"
+[20]: https://www.gesetze-im-internet.de/ustg_1980/__25c.html "UStG § 25c: Anlagegold"
+[21]: https://www.federalreserve.gov/newsevents/2026-october.htm "Federal Reserve: Kalender Oktober 2026"
+[22]: https://www.bls.gov/schedule/2026/10_sched.htm "BLS: Kalender der US-Veröffentlichungen im Oktober 2026"
+[23]: https://www.destatis.de/DE/Presse/Wochenvorschau/_inhalt.html "Destatis: Wochenvorschau und angekündigte endgültige September-Ergebnisse"
+[24]: https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/09/PD26_348_611.html "Destatis: Vorläufige Inflationswerte für September 2026"
+[25]: https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-02102026-ap "Eurostat: Schnellschätzung der Euroraum-Inflation und Termin der vollständigen September-Daten"
+[26]: https://www.scheideanstalt.de/aktuelle-ankaufskurse/gold/ "ESG/Scheideanstalt: zeitgestempelte Schalter-Ankaufspreise für Goldbarren"
+[27]: https://www.federalreserve.gov/releases/h15/ "Federal Reserve H.15: letzter effektiver Federal-Funds-Satz"
