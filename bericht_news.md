@@ -323,3 +323,112 @@ The Riyadh airport escalation and the unconfirmed Russia-Ukraine energy-ceasefir
 - [BBC: Ukraine strikes Yandex data centre](https://www.bbc.com/news/articles/cw0k0g57mk3zo)
 - [BBC: Polish police detain man over alleged plot](https://www.bbc.com/news/articles/c6n9rvynl5p5o)
 - [BBC: US Justice Department investigates TV networks](https://www.bbc.com/news/articles/c9vgregzk6gro)
+
+---
+
+## World News Briefing — 13 October 2026
+
+*Prepared at approximately 7:50 a.m. CEST. Reporting prioritizes BBC News and CNN, with Reuters, AP, official statements and other reliable reporting used to verify major claims. Times are Berlin time (CEST) where available. This edition contains five fresh developments; older stories without a material update are omitted rather than repeated.*
+
+### Today's World in 60 Seconds
+
+- Saudi Arabia's energy minister vowed a “serious” response to recent Houthi attacks on airports. Saudi-led coalition officials said missiles were intercepted, while airlines reported flight suspensions amid airport disruption.
+- Ukraine's President Volodymyr Zelensky says Russian strikes hit six Ukrainian energy sites after Donald Trump announced an “energy ceasefire.” Moscow has not publicly confirmed a mutual truce, and the terms remain unclear.
+- US immigration agents searched Congresswoman Ilhan Omar's home under a judicial warrant. The Justice Department confirmed an ongoing criminal investigation but has not disclosed its subject.
+- A rights monitor says an air strike in northern Sudan killed at least 72 artisanal miners and blames Egypt; Reuters says it could not independently verify responsibility, and Egypt had not commented.
+- A cyberattack disrupted refrigeration systems at hundreds of French supermarkets, according to retailer and media estimates. Investigators are examining the incident; the attacker and final scale of losses are unknown.
+
+**The biggest story today:** The Saudi-Houthi confrontation is intensifying around civilian airports and energy infrastructure, and Riyadh has now publicly promised a serious response.
+
+**The biggest risk to watch:** A Saudi retaliatory operation could widen the regional conflict. The Houthis' claims and the Saudi coalition's interception reports must remain attributed; not every reported projectile has independent confirmation.
+
+**What to watch today:**
+1. Any Saudi announcement on a response, the status of Riyadh airport and resumption of suspended flights.
+2. Whether Moscow confirms an energy ceasefire and what verified evidence emerges about new attacks on Ukrainian energy sites.
+3. Official explanations, charges or court filings concerning the search of Ilhan Omar's home, and further evidence about the Sudan strike.
+
+**Overall global outlook:** Security risks are rising in the Gulf while a claimed Ukraine energy pause remains unconfirmed and is already disputed by Kyiv's account of new strikes. The Sudan casualty report and France's supermarket cyberattack also show how conflict and digital disruption can affect civilians and essential services. Several central facts—including responsibility and scale—remain under investigation.
+
+### Top 3 Global Stories
+
+#### 1. Saudi minister vows a “serious response” to Houthi attacks
+
+**Summary:** Saudi Energy Minister Prince Abdulaziz bin Salman said the kingdom's response to repeated Houthi attacks on airports and energy facilities must be “equally serious.” Saudi-led coalition officials said they intercepted missiles, including two launched toward Khamis Mushait; Saudi airport disruptions and flight suspensions were also reported. The Houthis claimed responsibility for attacks, but individual launch and interception claims remain attributable statements rather than independently verified findings.
+
+**Why it matters:** Attacks on Saudi civilian aviation and energy infrastructure threaten public safety and raise the risk of a broader regional escalation. Riyadh is a major oil exporter, so continued disruption could also unsettle energy markets and travel.
+
+**Latest development:** BBC reported explosions in Riyadh on Monday night and said the Saudi-led coalition announced Tuesday that two ballistic missiles aimed at Khamis Mushait had been intercepted. The report said King Khalid airport was expected to remain closed until Saturday; check for later operational updates before relying on that timetable.
+
+**What happens next:** Watch for the airport's safety assessment and reopening timetable, further confirmed interceptions or attacks, and whether Riyadh announces a concrete action in response to the minister's warning.
+
+**Sources:** [BBC](https://www.bbc.com/news/articles/cjly0zqq27e4o) (page displayed “35 minutes ago” when checked at approximately 7:51 a.m. CEST on 13 October; relative time, not an exact publication stamp).
+
+#### 2. Zelensky says six Ukrainian energy sites hit after Trump's ceasefire announcement
+
+**Summary:** Zelensky said Russian strikes hit six Ukrainian energy facilities after Trump announced an immediate “energy ceasefire.” Kyiv's grid operator Ukrenergo reported fresh cuts in Kharkiv, Donetsk and Zaporizhzhia and electricity rationing to protect damaged equipment. Moscow had not publicly confirmed a mutual pause; Foreign Minister Sergei Lavrov said Ukraine did not deserve the “respite” a ceasefire would bring.
+
+**Why it matters:** The reports cast doubt on whether an operative ceasefire exists just as Ukraine faces outages and prepares for colder weather. Trump's announcement did not include published terms, monitoring arrangements or a confirmed Russian acceptance.
+
+**Latest development:** The BBC reported Zelensky's six-site claim and fresh grid disruption. Kyiv also reported a drone strike on a residential building in the capital, with one dead and 11 injured; those casualties were not attributed to an energy-site strike.
+
+**What happens next:** Watch for Moscow's position, further updates from Ukrenergo, and verifiable evidence of whether energy attacks stop. No agreed enforcement mechanism was identified in the reporting reviewed.
+
+**Sources:** [BBC](https://www.bbc.com/news/articles/cvlyd4pdlwkxo) (page displayed “7 hours ago” when checked at approximately 7:51 a.m. CEST on 13 October; relative time, not an exact publication stamp).
+
+#### 3. Rights monitor reports 72 miners killed in northern Sudan strike
+
+**Summary:** Emergency Lawyers said an air strike in northern Sudan's Jabal al-Uqaydat border region killed at least 72 artisanal miners and blamed Egypt's military. Reuters said it could not independently verify the attribution; images circulated by rights groups were also unverified. Egypt had not commented in the latest reporting reviewed.
+
+**Why it matters:** The reported deaths raise civilian-protection concerns in a volatile border region where Sudan's conflict and a gold-mining rush intersect. If the allegation of a cross-border Egyptian strike were confirmed, it could worsen already sensitive border tensions.
+
+**Latest development:** CNN, carrying Reuters reporting, published the account on 12 October. The 72-death figure remains attributed to Emergency Lawyers; no independent casualty confirmation or verified imagery was established in the sources reviewed.
+
+**What happens next:** Watch for an official investigation and casualty accounting, an Egyptian response, and independently verifiable evidence about the strike's location and perpetrator.
+
+**Sources:** [CNN/Reuters](https://www.cnn.com/2026/10/12/africa/airstrike-kills-sudanese-artisanal-miners-intl) (published 12 October, 10:44 a.m. CEST); [Reuters](https://www.reuters.com/world/africa/least-72-sudanese-artisanal-miners-killed-strike-saturday-rights-monitor-says-2026-10-11/) (11 October; exact time not shown).
+
+### United States
+
+#### Immigration agents search Congresswoman Ilhan Omar's home
+
+**Summary:** Homeland Security Investigations agents searched Rep. Ilhan Omar's Washington-area home on 12 October under a judicially authorized warrant in an ongoing federal criminal investigation, the Justice Department told the BBC and AP. DOJ did not disclose the subject of the investigation. Omar described the search as political intimidation; that is her characterization, not an established motive. Media reporting about possible immigration paperwork has not been confirmed by DOJ.
+
+**Why it matters:** A federal search of a sitting congresswoman's home shortly before midterm elections is politically consequential. The existence of a warrant and investigation is confirmed; the investigation's focus and any political motive remain unknown.
+
+**Latest development:** As of 13 October, DOJ had confirmed only that HSI executed a judicial warrant in an ongoing criminal investigation. No charges or further official explanation were reported.
+
+**What happens next:** Watch for court filings, charges or a DOJ explanation, and responses from Omar and congressional leaders.
+
+**Sources:** [BBC](https://www.bbc.com/news/articles/cvp8glg97393o) (published approximately 6:42 a.m. CEST on 13 October, based on the relative timestamp); [Associated Press](https://apnews.com/article/ilhan-omar-home-searched-8e18c2aea948bd90f4d7a4eb32b9ec3a) (updated 12 October, 6:44 p.m. CEST).
+
+### Europe, Cybersecurity and Technology
+
+#### Cyberattack disrupts refrigeration systems at French supermarkets
+
+**Summary:** A cyberattack disrupted remote refrigeration controls in hundreds of French supermarkets, causing some fridges and freezers to warm up and food to be discarded. Media and retailer figures put the number of affected sites at roughly 400, but totals vary; the Paris prosecutor opened a cybercrime investigation. Danfoss said incidents affected a limited number of refrigeration-management systems and that affected units had outdated firmware.
+
+**Why it matters:** The incident shows how attacks on connected operational technology can disrupt food retail and cause economic losses. The precise attack method, nationwide impact and total losses remain unconfirmed.
+
+**Latest development:** The Mousquetaires Group told the BBC that some fresh and frozen display units remained out of service on Monday afternoon; affected food had been removed and staff were restocking. No attacker has been publicly identified.
+
+**What happens next:** Watch for the investigation's findings, updated store-impact numbers and confirmation that affected controls have been restored and secured.
+
+**Sources:** [BBC](https://www.bbc.com/news/articles/crq5nzxv9q4yo) (page displayed “11 hours ago” when checked at approximately 7:51 a.m. CEST on 13 October; approximate relative time).
+
+### Five Things to Remember Today
+
+1. Saudi Arabia has promised a serious response to Houthi attacks, but the scale and form of any action are not yet specified.
+2. Zelensky says six Ukrainian energy sites were hit after Trump's ceasefire announcement; the existence of a mutual truce remains unconfirmed.
+3. Emergency Lawyers' report of 72 miners killed in Sudan is serious but unverified independently, especially as to responsibility.
+4. DOJ confirmed a warrant-backed search of Ilhan Omar's home but has not disclosed the investigation's subject.
+5. A French supermarket refrigeration cyberattack disrupted stores; the investigation and scope are still developing.
+
+### Sources and Further Reading
+
+- [BBC News — World](https://www.bbc.com/news/world)
+- [CNN — World](https://edition.cnn.com/world)
+- [BBC: Saudi minister vows serious response to Houthi airport attacks](https://www.bbc.com/news/articles/cjly0zqq27e4o) (13 October)
+- [BBC: Six Ukrainian energy sites hit, Zelensky says](https://www.bbc.com/news/articles/cvlyd4pdlwkxo) (13 October; relative time displayed)
+- [CNN/Reuters: Sudanese miners killed in strike, rights monitor says](https://www.cnn.com/2026/10/12/africa/airstrike-kills-sudanese-artisanal-miners-intl) (12 October)
+- [BBC: Immigration agents search Ilhan Omar's home](https://www.bbc.com/news/articles/cvp8glg97393o) (13 October)
+- [BBC: French supermarkets hit by cyberattack](https://www.bbc.com/news/articles/crq5nzxv9q4yo) (12 October)
